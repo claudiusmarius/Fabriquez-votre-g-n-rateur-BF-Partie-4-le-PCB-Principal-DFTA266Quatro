@@ -81,14 +81,16 @@ Cette carte constitue la base du projet.
 Les prochaines réalisations porteront sur :
 
 alimentation à zéro virtuel
+
 traitement analogique du signal
+
 réglage de l'amplitude
+
 offset continu
-filtrage
+
 étage de sortie
+
 protection contre les courts-circuits
-génération de dents de scie
-wobulation
-interface utilisateur évoluée
+
 
 
